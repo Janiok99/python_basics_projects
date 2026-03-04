@@ -5,9 +5,9 @@
 
 ## Struktura projektu
 
-   calculator/
-      │── calculator.py
-      │── README.md
+      calculator/
+         │── calculator.py
+         │── README.md
 
 ## Funkcjonalności
 
